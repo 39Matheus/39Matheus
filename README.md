@@ -3,6 +3,13 @@
 - 💻 Coding in C++, Python, and occasionally dabbling in assembly wizardry
 - 📫 Reach me right here on GitHub! I will answer you between 1 second and 3 years ;)
 
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Assembly](https://img.shields.io/badge/-Assembly-6E4C1E?style=flat&logo=assembly)
+![UFRN](https://img.shields.io/badge/UFRN-003399?style=flat&logo=university&logoColor=white)
+[![MARS IDE](https://img.shields.io/badge/MARS-IDE-blue?style=flat&logo=linux)](http://courses.missouristate.edu/kenvollmar/mars/)
+
+
 ```asm
 .data
 input: .asciiz "curious one"

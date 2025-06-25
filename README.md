@@ -5,9 +5,12 @@
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Assembly](https://img.shields.io/badge/-Assembly-6E4C1E?style=flat&logo=assembly)
-![UFRN](https://img.shields.io/badge/UFRN-003399?style=flat&logo=university&logoColor=white)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
+![Assembly](https://img.shields.io/badge/-🛠️%20Assembly-6E4C1E?style=flat&logo=assembly)
+[![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white)](#)
+
 [![MARS IDE](https://img.shields.io/badge/MARS-IDE-blue?style=flat&logo=linux)](http://courses.missouristate.edu/kenvollmar/mars/)
+[![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=fff)](#)
 
 
 ```asm

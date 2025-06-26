@@ -11,6 +11,7 @@
 
 [![MARS IDE](https://img.shields.io/badge/MARS-IDE-blue?style=flat&logo=linux)](http://courses.missouristate.edu/kenvollmar/mars/)
 [![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=fff)](#)
+[![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visualstudio&logoColor=white)](#)
 
 
 ```asm
